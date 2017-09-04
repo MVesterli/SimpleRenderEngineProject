@@ -12,6 +12,7 @@
 #include <SDL_surface.h>
 
 #include <SDL_image.h>
+#include <algorithm>
 #include <fstream>
 #include "sre/RenderStats.hpp"
 #include "sre/Renderer.hpp"

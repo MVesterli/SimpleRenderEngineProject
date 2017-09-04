@@ -5,6 +5,7 @@
  *  License: MIT
  */
 
+#include <algorithm>
 #include <iostream>
 #include <glm/gtx/euler_angles.hpp>
 #include <glm/gtx/transform.hpp>

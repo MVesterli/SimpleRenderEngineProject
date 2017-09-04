@@ -5,6 +5,7 @@
  *  License: MIT
  */
 
+#include <algorithm>
 #include "sre/SpriteBatch.hpp"
 #include "sre/Texture.hpp"
 #include "sre/Material.hpp"

@@ -5,6 +5,7 @@
  *  License: MIT
  */
 
+#include <algorithm>
 #include "sre/ModelImporter.hpp"
 #include <fstream>
 #include <string>
